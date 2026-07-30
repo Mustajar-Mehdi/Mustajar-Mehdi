@@ -10,7 +10,7 @@ CS student at GIKI, building toward a Master's at RWTH Aachen and a career in da
 
 
 
-**Featured project:** [AI Red-Team Evaluator](-Ai-red-team-evaluator) — multi-agent adversarial testing pipeline with severity-rated dashboard
+**Featured project:** [AI Red-Team Evaluator](https://github.com/Mustajar-Mehdi/-Ai-red-team-evaluator) — multi-agent adversarial testing pipeline with severity-rated dashboard
 
 ## 📜 Certifications
 - Kaggle: Pandas ✅ 
