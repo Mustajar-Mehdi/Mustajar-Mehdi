@@ -5,7 +5,8 @@ CS student at GIKI, building toward a Master's at RWTH Aachen and a career in da
 - 🔭 Currently deep in self-directed data science: Pandas, NumPy, data viz, and moving into ML
 - 🛡️ Built an automated AI red-teaming pipeline testing LLM agents for jailbreaks & prompt injection
 - 🌱 Learning: Machine Learning, Deep Learning fundamentals
-- 📫 Reach me: [![LinkedIn](https://shields.io)](https://linkedin.com) [![Kaggle](https://shields.io)](https://www.kaggle.com/syedmustajar)
+- 📫 Reach me: [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/syedmustajarmehdi/) [![Kaggle](https://shields.io)](https://kaggle.com)
+
 
 
 
