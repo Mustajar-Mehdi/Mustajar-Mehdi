@@ -1,18 +1,13 @@
-# data-science-portfolio
-My Data Science projects and Kaggle Notebooks. Here, I will be sharing my projects related to data science, and also my Notebooks from Kaggle. 
-# Syed Mustajar — Data Science Portfolio
+### Hi, I'm Mustajar 👋
 
-## 👋 About Me
-DS Student at GIKI (2nd Year) | Passionate about 
-Data Science and Machine Learning
+CS student at GIKI, building toward a Master's at RWTH Aachen and a career in data science.
 
-## 🛠️ Skills
-- Python (Pandas, NumPy, Matplotlib)
-- Data Analysis & Visualization
-- C++ (DSA in progress)
+- 🔭 Currently deep in self-directed data science: Pandas, NumPy, data viz, and moving into ML
+- 🛡️ Built an automated AI red-teaming pipeline testing LLM agents for jailbreaks & prompt injection
+- 🌱 Learning: Machine Learning, Deep Learning fundamentals
+- 📫 Reach me: [LinkedIn link] · [Kaggle link]
 
-## 📊 Projects
-(Coming soon — updating weekly)
+**Featured project:** [AI Red-Team Evaluator](https://github.com/Mustajar-Mehdi/ai-red-team-evaluator) — multi-agent adversarial testing pipeline with severity-rated dashboard
 
 ## 📜 Certifications
 - Kaggle: Pandas ✅ 
