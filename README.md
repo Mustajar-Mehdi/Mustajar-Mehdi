@@ -51,7 +51,6 @@ Documented progression through Pandas, NumPy, and Data Visualization — each no
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Mustajar-Mehdi&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mustajar-Mehdi&hide_border=true" alt="GitHub streak" height="165" />
 </p>
 
 ---
@@ -65,7 +64,7 @@ Documented progression through Pandas, NumPy, and Data Visualization — each no
 **Kaggle · 5-Day AI Agents: Intensive Vibe Coding Course**
 *(Kaggle × Google)*
 
-<img src="5-Day_AI_Agents__Intensive_Vibe_Coding_Course__1_.png" alt="5-Day AI Agents Certificate" width="100%" />
+<img src="5-Day AI Agents_ Intensive Vibe Coding Course.png" alt="5-Day AI Agents Certificate" width="100%" />
 
 </td>
 <td width="50%">
@@ -117,19 +116,34 @@ Documented progression through Pandas, NumPy, and Data Visualization — each no
 
 </td>
 <td width="50%">
+
+**Kaggle · Intro to Machine Learning**
+
+<img src="Syed Mustajar - Intro to Machine Learning.png" alt="Intro to Machine Learning Certificate" width="100%" />
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🏆 HackerRank Orchestrate**
+*Built & deployed an AI agent — 24-hour hackathon*
+
+<img src="Hackerank_Orchestrate_2026.png" alt="HackerRank Orchestrate Certificate" width="100%" />
+
+</td>
+<td width="50%">
 </td>
 </tr>
 </table>
 
 ---
 
-- 🏆 HackerRank Orchestrate — Built an AI Agent (24-hour hackathon) [![HackerRank Orchestrate](https://github.com/Mustajar-Mehdi/Mustajar-Mehdi/raw/main/Hackerank_Orchestrate_2026.png)](/Mustajar-Mehdi/Mustajar-Mehdi/blob/main/Hackerank_Orchestrate_2026.png)
-
 <div align="center">
 
 ### 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/syedmustajarmehdi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedmustajarmehdi)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/syedmustajar)
 
 </div>
