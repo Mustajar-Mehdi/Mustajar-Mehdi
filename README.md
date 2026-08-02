@@ -11,6 +11,7 @@ CS student at GIKI, building toward a Master's at RWTH Aachen and a career in da
 
 
 **Featured project:** [AI Red-Team Evaluator](https://github.com/Mustajar-Mehdi/-Ai-red-team-evaluator) — multi-agent adversarial testing pipeline with severity-rated dashboard
+**[Damage Claim Verification System](https://github.com/Mustajar-Mehdi/multimodal-damage-claim-verifier)- damage claim verification system consisting of an AI pipeline testing the claims of user with sample and test images, with a Streamlit dashboard for end results.
 
 ## 📜 Certifications
 - Kaggle: Pandas ✅ 
