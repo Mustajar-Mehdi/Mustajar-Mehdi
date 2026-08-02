@@ -1,38 +1,133 @@
-### Hi, I'm Mustajar 👋
+<div align="center">
 
-CS student at GIKI, building toward a Master's at RWTH Aachen and a career in data science.
+# Hi, I'm Mustajar 👋
 
-- 🔭 Currently deep in self-directed data science: Pandas, NumPy, data viz, and moving into ML
-- 🛡️ Built an automated AI red-teaming pipeline testing LLM agents for jailbreaks & prompt injection
-- 🌱 Learning: Machine Learning, Deep Learning fundamentals
-- 📫 Reach me: [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/syedmustajarmehdi/) [![Kaggle](https://shields.io)](https://kaggle.com)
+### CS Student @ GIKI | Building toward a Master's at RWTH Aachen | Future Data Scientist
 
+</div>
 
+---
 
+### 🔭 About Me
 
-**Featured project:** [AI Red-Team Evaluator](https://github.com/Mustajar-Mehdi/-Ai-red-team-evaluator) — multi-agent adversarial testing pipeline with severity-rated dashboard
-**[Damage Claim Verification System](https://github.com/Mustajar-Mehdi/multimodal-damage-claim-verifier)- damage claim verification system consisting of an AI pipeline testing the claims of user with sample and test images, with a Streamlit dashboard for end results.
+- 🎓 Data Science undergraduate at **GIKI** (Ghulam Ishaq Khan Institute), currently in my 2nd year
+- 🧠 Self-teaching the full data science stack over summer: **Pandas → NumPy → Data Visualization → Machine Learning**
+- 🛡️ Built an automated **AI red-teaming pipeline** that tests LLM agents for jailbreaks & prompt injection, with a live severity-rated Streamlit dashboard
+- 🕵️ Built a **multi-modal damage claims verification system** (Gemini Vision) for the HackerRank Orchestrate hackathon — includes quota-safe checkpointing and a self-honest evaluation harness
+- 🌱 Currently learning: Feature Engineering, Deep Learning fundamentals
+- 🎯 Long-term goal: Master's in Data Science at RWTH Aachen → career in data science at a top tech company
+- 💬 Ask me about: Pandas, NumPy, data cleaning, or AI agent evaluation
 
-## 📜 Certifications
-- Kaggle: Pandas ✅ 
-![Kaggle Pandas Certificate](Syed%20Mustajar%20-%20Pandas.png)
-- Kaggle: Data Cleaning 🧼
-  ![Data Cleaning](./Syed%20Mustajar%20-%20Data%20Cleaning.png)
+---
 
-- Kaggle: Data Visualization 📊
-  ![Data Visualization](./Syed%20Mustajar%20-%20Data%20Visualization.png)
+### 🛠️ Tech Stack
 
-- Kaggle: Feature Engineering ⚙️
-  ![Feature Engineering](./Syed%20Mustajar%20-%20Feature%20Engineering.png)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" alt="tech stack icons" />
+</p>
 
-- Kaggle: Intro to AI Ethics ⚖️
-  ![Intro to AI Ethics](./Syed%20Mustajar%20-%20Intro%20to%20AI%20Ethics.png)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-- Kaggle: Intro to Machine Learning 🤖
-  ![Intro to Machine Learning](./Syed%20Mustajar%20-%20Intro%20to%20Machine%20Learning.png)
-- Kaggle: Intermediate Machine Learning 🚀
-  ![Intermediate Machine Learning](./Syed%20Mustajar%20-%20Intermediate%20Machine%20Learning.png)
+---
 
-- 5-Day AI Agents Intensive (Vibe Coding Course) 🔥
-  ![Vibe Coding](./5-Day%20AI%20Agents_%20Intensive%20Vibe%20Coding%20Course.png)
+### 📌 Featured Projects
 
+**[🛡️ AI Red-Team Evaluator](https://github.com/Mustajar-Mehdi/ai-red-team-evaluator)**
+Multi-agent adversarial testing pipeline that automatically probes LLM agents for jailbreaks and prompt injection, with a severity-rated dashboard.
+
+**[🔍 Multi-Modal Damage Claim Verifier](https://github.com/Mustajar-Mehdi/multimodal-damage-claim-verifier)**
+Gemini Vision–powered pipeline that verifies insurance damage claims from images, chat transcripts, and user history — with prompt-injection defense, quota-safe checkpointing, and an honest, auto-generated evaluation report.
+
+**[📊 Data Science Learning Journey](https://github.com/Mustajar-Mehdi/data-science-learning)**
+Documented progression through Pandas, NumPy, and Data Visualization — each notebook explains *why* a technique was used, not just *that* it was used.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mustajar-Mehdi&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mustajar-Mehdi&hide_border=true" alt="GitHub streak" height="165" />
+</p>
+
+---
+
+### 📄 Certifications
+
+<table>
+<tr>
+<td width="50%">
+
+**Kaggle · 5-Day AI Agents: Intensive Vibe Coding Course**
+*(Kaggle × Google)*
+
+<img src="5-Day_AI_Agents__Intensive_Vibe_Coding_Course__1_.png" alt="5-Day AI Agents Certificate" width="100%" />
+
+</td>
+<td width="50%">
+
+**Kaggle · Pandas**
+
+<img src="Syed Mustajar - Pandas.png" alt="Pandas Certificate" width="100%" />
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**Kaggle · Data Cleaning**
+
+<img src="Syed Mustajar - Data Cleaning.png" alt="Data Cleaning Certificate" width="100%" />
+
+</td>
+<td width="50%">
+
+**Kaggle · Data Visualization**
+
+<img src="Syed Mustajar - Data Visualization.png" alt="Data Visualization Certificate" width="100%" />
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**Kaggle · Feature Engineering**
+
+<img src="Syed Mustajar - Feature Engineering.png" alt="Feature Engineering Certificate" width="100%" />
+
+</td>
+<td width="50%">
+
+**Kaggle · Intro to AI Ethics**
+
+<img src="Syed Mustajar - Intro to AI Ethics.png" alt="AI Ethics Certificate" width="100%" />
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**Kaggle · Intermediate Machine Learning**
+
+<img src="Syed Mustajar - Intermediate Machine Learning.png" alt="Intermediate ML Certificate" width="100%" />
+
+</td>
+<td width="50%">
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/syedmustajarmehdi)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/syedmustajar)
+
+</div>
