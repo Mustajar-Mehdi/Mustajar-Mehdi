@@ -64,7 +64,7 @@ Documented progression through Pandas, NumPy, and Data Visualization — each no
 **Kaggle · 5-Day AI Agents: Intensive Vibe Coding Course**
 *(Kaggle × Google)*
 
-<img src="5-Day AI Agents_ Intensive Vibe Coding Course.png" alt="5-Day AI Agents Certificate" width="100%" />
+<img src="vibe-coding-course.png" alt="5-Day AI Agents Certificate" width="100%" />
 
 </td>
 <td width="50%">
@@ -129,7 +129,7 @@ Documented progression through Pandas, NumPy, and Data Visualization — each no
 **🏆 HackerRank Orchestrate**
 *Built & deployed an AI agent — 24-hour hackathon*
 
-<img src="Hackerank_Orchestrate_2026.png" alt="HackerRank Orchestrate Certificate" width="100%" />
+<img src="hackerrank-orchestrate.png" alt="HackerRank Orchestrate Certificate" width="100%" />
 
 </td>
 <td width="50%">
