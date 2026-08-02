@@ -127,7 +127,7 @@ Documented progression through Pandas, NumPy, and Data Visualization — each no
 <td width="50%">
 
 **🏆 HackerRank Orchestrate**
-*Built & deployed an AI agent — 24-hour hackathon*
+*Built an AI agent — 24-hour hackathon*
 
 <img src="hackerrank-orchestrate.png" alt="HackerRank Orchestrate Certificate" width="100%" />
 
