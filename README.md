@@ -123,6 +123,8 @@ Documented progression through Pandas, NumPy, and Data Visualization — each no
 
 ---
 
+- 🏆 HackerRank Orchestrate — Built an AI Agent (24-hour hackathon) [![HackerRank Orchestrate](https://github.com/Mustajar-Mehdi/Mustajar-Mehdi/raw/main/Hackerank_Orchestrate_2026.png)](/Mustajar-Mehdi/Mustajar-Mehdi/blob/main/Hackerank_Orchestrate_2026.png)
+
 <div align="center">
 
 ### 📫 Connect with me
